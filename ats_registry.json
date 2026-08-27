@@ -1,0 +1,236 @@
+{
+  "ashby": {},
+  "ats_links": {
+    "icims|jobs-joslin.icims.com|/jobs/intro": {
+      "company": "Beth Israel Lahey Health",
+      "host": "jobs-joslin.icims.com",
+      "platform": "icims",
+      "url": "https://jobs-joslin.icims.com/jobs/intro"
+    },
+    "workable|apply.workable.com|/proarch-3": {
+      "company": "ProArch",
+      "host": "apply.workable.com",
+      "platform": "workable",
+      "url": "https://apply.workable.com/proarch-3"
+    },
+    "workable|jobs.workable.com|/view/mpc6wqqraxj6sazjvty4to/remote-data-engineer-(snowflake)-in-united-states-at-prominence-advisors": {
+      "company": "Prominence Advisors",
+      "host": "jobs.workable.com",
+      "platform": "workable",
+      "url": "https://jobs.workable.com/view/mpc6WQqRaXJ6sAzJVTy4To/remote-data-engineer-(snowflake)-in-united-states-at-prominence-advisors"
+    }
+  },
+  "company_domains": {
+    "addisongroup.com": {
+      "company": "Addison Group",
+      "domain": "addisongroup.com"
+    },
+    "adusa.com": {
+      "company": "Ahold Delhaize USA",
+      "domain": "adusa.com"
+    },
+    "alchemyny.com": {
+      "company": "Alchemy",
+      "domain": "alchemyny.com"
+    },
+    "altamiracorp.com": {
+      "company": "Altamira Technologies Corp.",
+      "domain": "altamiracorp.com"
+    },
+    "americanexpress.com": {
+      "company": "American Express",
+      "domain": "americanexpress.com"
+    },
+    "americantower.com": {
+      "company": "American Tower",
+      "domain": "americantower.com"
+    },
+    "apply.workable.com": {
+      "company": "ProArch",
+      "domain": "apply.workable.com"
+    },
+    "areti.io": {
+      "company": "Areti Group | B Corp\u2122",
+      "domain": "areti.io"
+    },
+    "bdo.com": {
+      "company": "BDO USA",
+      "domain": "bdo.com"
+    },
+    "bilh.org": {
+      "company": "Beth Israel Lahey Health",
+      "domain": "bilh.org"
+    },
+    "biospace.com": {
+      "company": "BioSpace",
+      "domain": "biospace.com"
+    },
+    "capgemini.com": {
+      "company": "Capgemini",
+      "domain": "capgemini.com"
+    },
+    "cardinalhealth.com": {
+      "company": "Cardinal Health",
+      "domain": "cardinalhealth.com"
+    },
+    "careers.bluecrossmn.com": {
+      "company": "Blue Cross and Blue Shield of Minnesota",
+      "domain": "careers.bluecrossmn.com"
+    },
+    "caterpillar.com": {
+      "company": "Caterpillar",
+      "domain": "caterpillar.com"
+    },
+    "ccmsi.com": {
+      "company": "CCMSI",
+      "domain": "ccmsi.com"
+    },
+    "coalitioninc.com": {
+      "company": "Coalition, Inc.",
+      "domain": "coalitioninc.com"
+    },
+    "comfy.com.ua": {
+      "company": "COMFY",
+      "domain": "comfy.com.ua"
+    },
+    "deloitte.com": {
+      "company": "Deloitte",
+      "domain": "deloitte.com"
+    },
+    "evidation.com": {
+      "company": "Evidation",
+      "domain": "evidation.com"
+    },
+    "geico.com": {
+      "company": "GEICO",
+      "domain": "geico.com"
+    },
+    "harborcompliance.com": {
+      "company": "Harbor Compliance",
+      "domain": "harborcompliance.com"
+    },
+    "hcltech.com": {
+      "company": "HCLTech",
+      "domain": "hcltech.com"
+    },
+    "jobs-joslin.icims.com": {
+      "company": "Beth Israel Lahey Health",
+      "domain": "jobs-joslin.icims.com"
+    },
+    "jobs.workable.com": {
+      "company": "Prominence Advisors",
+      "domain": "jobs.workable.com"
+    },
+    "jpmorganchase.com": {
+      "company": "JPMorganChase",
+      "domain": "jpmorganchase.com"
+    },
+    "lamresearch.com": {
+      "company": "Lam Research",
+      "domain": "lamresearch.com"
+    },
+    "metova.com": {
+      "company": "Metova",
+      "domain": "metova.com"
+    },
+    "mizuhogroup.com": {
+      "company": "Mizuho",
+      "domain": "mizuhogroup.com"
+    },
+    "nylatechnologysolutions.com": {
+      "company": "Nyla Technology Solutions",
+      "domain": "nylatechnologysolutions.com"
+    },
+    "opendatajobs.com": {
+      "company": "OpenDataJobs",
+      "domain": "opendatajobs.com"
+    },
+    "optum.com": {
+      "company": "Optum",
+      "domain": "optum.com"
+    },
+    "paychex.com": {
+      "company": "Paychex",
+      "domain": "paychex.com"
+    },
+    "pfizer.com": {
+      "company": "Pfizer",
+      "domain": "pfizer.com"
+    },
+    "proarch.com": {
+      "company": "ProArch",
+      "domain": "proarch.com"
+    },
+    "prominenceadvisors.com": {
+      "company": "Prominence Advisors",
+      "domain": "prominenceadvisors.com"
+    },
+    "pyxismcg.com": {
+      "company": "PYXIS Management Consulting Group LLC",
+      "domain": "pyxismcg.com"
+    },
+    "salesforce.com": {
+      "company": "Salesforce",
+      "domain": "salesforce.com"
+    },
+    "servicenow.com": {
+      "company": "ServiceNow",
+      "domain": "servicenow.com"
+    },
+    "sovos.com": {
+      "company": "Sovos Latinoam\u00e9rica",
+      "domain": "sovos.com"
+    },
+    "summitutilitiesinc.com": {
+      "company": "Summit Utilities, Inc.",
+      "domain": "summitutilitiesinc.com"
+    },
+    "synopsys.com": {
+      "company": "Synopsys Inc",
+      "domain": "synopsys.com"
+    },
+    "tempus.com": {
+      "company": "Tempus AI",
+      "domain": "tempus.com"
+    },
+    "tive.com": {
+      "company": "Tive",
+      "domain": "tive.com"
+    },
+    "tr.com": {
+      "company": "Thomson Reuters",
+      "domain": "tr.com"
+    },
+    "trueanomaly.space": {
+      "company": "True Anomaly",
+      "domain": "trueanomaly.space"
+    },
+    "villagecare.org": {
+      "company": "VillageCare",
+      "domain": "villagecare.org"
+    },
+    "vividresourcing.com": {
+      "company": "Vivid Resourcing",
+      "domain": "vividresourcing.com"
+    },
+    "wolfe.com": {
+      "company": "Wolfe, LLC",
+      "domain": "wolfe.com"
+    },
+    "xpeng.com": {
+      "company": "XPENG",
+      "domain": "xpeng.com"
+    }
+  },
+  "greenhouse": {},
+  "lever": {},
+  "smartrecruiters": {},
+  "workday": {
+    "cat.wd5.myworkdayjobs.com|cat|CaterpillarCareers": {
+      "company": "Caterpillar",
+      "host": "cat.wd5.myworkdayjobs.com",
+      "site": "CaterpillarCareers",
+      "tenant": "cat"
+    }
+  }
+}
